@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Diazepamt</title>
+<!-- TemplateEndEditable -->
+<link href="../css/styles.css" rel="stylesheet" type="text/css">
+<link href="../css/ie.css" rel="stylesheet" type="text/css">
+<link href="../css/1140.css" rel="stylesheet" type="text/css">
+<!-- TemplateParam name="OptionalRegion1" type="boolean" value="true" -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div class="container">
+  <div class="row">
+    <!--start header-->
+    <header>
+      <!--start logo-->
+      <div class="sixcol"> <a href="#" id="logo"><img src="../Images/hipsterlogogenerator_1434522734796.png" width="303" height="120" alt=""></a> </div>
+      <!--end logo-->
+      <!--start menu-->
+      <div class="sixcol last">
+        <nav><!-- TemplateBeginIf cond="OptionalRegion1" --><!-- TemplateBeginEditable name="EditRegion1" --><!-- TemplateEndEditable --><!-- TemplateEndIf -->
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About us </a></li>
+            <li><a href="../Products.html">Products</a></li>
+            <li><a href="#>Events</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Feedback</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+      <!--end menu-->
+      <img src="#" alt="" width="325" height="256" class="icecream">
+      <!--end header-->
+    </header>
+  </div>
+</div>
+<!-- TemplateBeginEditable name="EditRegion5" -->EditRegion5<!-- TemplateEndEditable -->
+
+</body>
+<footer></footer>
+
+</html>
